@@ -1,0 +1,4 @@
+site_name: Strona WiKi
+#site_url: https://kmyszak.github.io/es-pinio.github.io/
+theme:
+  name: material
